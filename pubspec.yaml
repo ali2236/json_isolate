@@ -1,7 +1,7 @@
 name: json_isolate
 description: A helper class that will help you convert your json in the background using an isolate.
-version: 0.0.1
-# homepage: https://www.example.com
+version: 0.1.0
+homepage: https://github.com/ali2236/json_isolate
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
